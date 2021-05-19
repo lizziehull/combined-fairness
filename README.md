@@ -1,4 +1,4 @@
-# combined-fairness
+# MSc Project
 
 Paper and code for my MSc Project at the University of Bristol (2021): 'Evaluating Combined Fairness Metrics in GANs'.
 
